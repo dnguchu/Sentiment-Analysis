@@ -1,6 +1,6 @@
 # Day 6 Analysis — instructions
 
-Run `notebooks/Day6_Evaluation_and_Analysis.ipynb` from repo root.
+Run `notebooks/Evaluation_and_Analysis.ipynb` from repo root.
 
 Required input files (place under `feature_engineering_output/`):
 - tfidf_X_train.npz, tfidf_X_test.npz, y_train.npy, y_test.npy
