@@ -1,3 +1,4 @@
+```bash
 Step 1: Sync with main
 git checkout main
 git pull origin main
